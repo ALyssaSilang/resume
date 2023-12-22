@@ -1,4 +1,4 @@
-# menor_resume
+# resume
 
 A new Flutter project.
 
